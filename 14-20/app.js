@@ -251,39 +251,6 @@
 //     }
 // }
 
-// ans7
-
-// document.write("<b>Counting:</b><br>");
-// for (let i = 1; i <= 15; i++) {
-//     document.write(i + ", ");
-// }
-
-// document.write("<br><br><b>Reverse counting:</b><br>");
-// for (let i = 10; i >= 1; i--) {
-//     document.write(i + ", ");
-// }
-
-// document.write("<br><br><b>Even:</b><br>");
-// for (let i = 0; i <= 20; i++) {
-//     if (i % 2 == 0) {        
-//         document.write(i + ", ");
-//     }
-// }
-
-// document.write("<br><br><b>Odd:</b><br>");
-// for (let i = 1; i <= 19; i++) {
-//     if (i % 2 != 0) {        
-//         document.write(i + ", ");
-//     }
-// }
-
-// document.write("<br><br><b>Series:</b><br>");
-// for (let i = 1; i <= 20; i++) {
-//     if (i % 2 == 0) {      
-//         document.write(i + "k, ");
-//     }
-// }
-
 // ans8
 // var A = [24, 53, 78, 91, 12];
 
